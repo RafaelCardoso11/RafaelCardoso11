@@ -6,12 +6,12 @@
 <main>
 <h3> Full Stack Developer</h3>
 <hr>
-<h4 style="margin: 0 auto;">👨🏻‍🔧About me </h4>
+  <h3 style="margin: 0 auto;">👨🏻‍🔧About me </h3>
 <p style="margin: 0 auto;">- 🧑🏻18 years old</p>
 <p style="margin: 0 auto;">- 🏠I live in Belém-PA</p>
 <p style="margin: 0 auto;">- 🖤I love the world of technology</p>
 <p style="margin: 0 auto;">- 👨🏻‍🎓I am studying Systems Development at the Federal Institute of Education, Science and Technology of Pará (IFPA)👨🏻‍🎓</p>
-<h4 style="margin: 0 auto;">My skills</h4>
+<h3 style="margin: 0 auto;">My skills</h3>
 <h5>👨🏻‍💻 I have experience with a lot of technologies (it took me a while to find myself in the area) 👨🏻‍💻</h5>
 <p align="left">
    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" height="25">
