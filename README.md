@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/html-FC490B?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML" height="25">
     <img src="https://img.shields.io/badge/css-264DE4?style=for-the-badge&logo=css3&logoColor=white"alt="CSS" height="25">
     <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" alt="JAVASCRIPT" height="25">
-    <img src="	https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" height="25">
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" height="25">
     <p align="left">
         <img src="https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="GIT" height="25">
         <img src="https://img.shields.io/badge/github-171516?style=for-the-badge&logo=github&logoColor=white" alt="GITHUB" height="25">
