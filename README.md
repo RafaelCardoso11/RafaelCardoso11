@@ -30,6 +30,13 @@
         <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql">
         <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql">
         <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite">
-       <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=RafaelCardoso11" alt="RafaelCardosoSkills">
+    
+    <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=RafaelCardoso11&count_private=true&show_icons=true&theme=dracula" alt="RafaelCardoso11" width="420"/> 
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=RafaelCardoso11&theme=dracula&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=10" height ="165"/>
+      <br/>
+    </p>
+    <p align="center">
+     <img src="https://github-profile-trophy.vercel.app/?username=RafaelCardoso11&theme=dracula&row=1" alt="RafaelCardoso11" />
+    </p><br>
 </main>
