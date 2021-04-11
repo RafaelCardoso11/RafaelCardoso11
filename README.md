@@ -1,5 +1,5 @@
+<p style="margin: 0 auto;">
 <header>
-   <p style = "margin: 0 auto;">
   <p align="left">
 <h1 align ="center">Hey you! I am Rafael Cardoso 🧑🏻‍💻</h1>
 <img alt="Coding" src="https://www.kodarbr.com/Rafael/perfil/download20210406225913.png" align="right" height="450" align="right"/>
@@ -27,3 +27,4 @@
         <img src="https://img.shields.io/badge/github-171516?style=for-the-badge&logo=github&logoColor=white" alt="GITHUB" height="25">
         <img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"  alt="VISUAL STUDIO" height="25">
 </main>
+
