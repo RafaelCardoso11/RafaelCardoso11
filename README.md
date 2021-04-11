@@ -1,3 +1,8 @@
+<style>
+    *{
+        margin: 0 auto;
+    }
+</style>
 <header>
   <p align="left">
 <h1 align ="center">Hey you! I am Rafael Cardoso 🧑🏻‍💻</h1>
