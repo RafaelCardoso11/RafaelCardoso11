@@ -1,9 +1,5 @@
-<style>
-    *{
-        margin: 0 auto;
-    }
-</style>
 <header>
+   <p style = "margin: 0 auto;">
   <p align="left">
 <h1 align ="center">Hey you! I am Rafael Cardoso 🧑🏻‍💻</h1>
 <img alt="Coding" src="https://www.kodarbr.com/Rafael/perfil/download20210406225913.png" align="right" height="450" align="right"/>
