@@ -1,13 +1,3 @@
 <header>
-    <style>
-        *{
-            margin: 0;
-        }
-        h1{
-            width: 100%; 
-            text-align: center;
-        }
-    </style>
-    <h1 class="welcomeTxt">Hey visitor ... Welcome🧑</h1>
-    
+    <h1 class="welcomeTxt" style="widht=100%; text-aling= center;">Hey visitor ... Welcome🧑</h1>
 </header>
