@@ -22,7 +22,7 @@
     <img src="https://img.shields.io/badge/html-FC490B?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML" height="25">
     <img src="https://img.shields.io/badge/css-264DE4?style=for-the-badge&logo=css3&logoColor=white"alt="CSS" height="25">
     <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" alt="JAVASCRIPT" height="25">
-    <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+    <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" height="25"/>
      <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"  height="25"/>
       <h2>Design</h2>
     <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"  height="25"/>
@@ -48,13 +48,12 @@
 <footer>
    <h2>Contacts</h2>
     <p align="left">
-   <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> 
-   Rafaelcardoso8882@gmail.com
-    <p align="left">
+   <img src="https://img.shields.io/badge/-RafaelCardoso8882@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/>
+    <a href="https://www.linkedin.com/in/rafaelcardoso11/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-   <a>https://www.linkedin.com/in/rafaelcardoso11/<a>
-    <p align="left">
+   </a>
+   <a href="https://wa.me/559198362202">
    <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-   <a>https://wa.me/559198362202<a>
-  
+   </a>
+
 </footer>
