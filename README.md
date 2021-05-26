@@ -14,22 +14,18 @@
 <p style="margin: 0 auto;">- 👨🏻‍🎓I am studying Systems Development at the Federal Institute of Education, Science and Technology of Pará (IFPA)👨🏻‍🎓</p>
 <h2 style="margin: 0 auto;">My skills</h2>
 <h3>👨🏻‍💻 I have experience with a lot of technologies (it took me a while to find myself in the area) 👨🏻‍💻</h3>
-  <h2>Desktop programming</h2>
-<p align="left">
-   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" height="25">
-   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" height="25">
-<h2>Web programming</h2>
-<p align="left">
+    <h2>Framework</h2>
+     <p align="left">
+      <img src="https://github.com/RafaelCardoso11/RafaelCardoso11/blob/main/angular-3.svg" alt="HTML" height="25">
+    <h2>Web programming</h2>
+    <p align="left">
     <img src="https://img.shields.io/badge/html-FC490B?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML" height="25">
     <img src="https://img.shields.io/badge/css-264DE4?style=for-the-badge&logo=css3&logoColor=white"alt="CSS" height="25">
     <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" alt="JAVASCRIPT" height="25">
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" height="25">
      <img src="sass_button_icon_151921.png" alt="SASS" height="25">
     <h2>Database</h2>
     <p align="left">
         <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql">
-        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql">
-        <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite">
     <h2>Tools</h2>
     <p align="left">
         <img src="https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="GIT" height="25">
