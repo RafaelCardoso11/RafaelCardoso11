@@ -33,7 +33,7 @@
         <img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"  alt="VISUAL STUDIO" height="25">
         <br/>
     <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=RafaelCardoso11&count_private=true&show_icons=true&theme=dracula" alt="RafaelCardoso11" width="420"/> 
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelCardoso11&langs_count=8&theme=dracula" alt="RafaelCardoso11"/> 
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=RafaelCardoso11&theme=dracula&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=10" height ="165"/>
       <br/>
     </p>
