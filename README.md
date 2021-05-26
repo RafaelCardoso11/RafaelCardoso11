@@ -16,7 +16,7 @@
 <h3>👨🏻‍💻 I have experience with a lot of technologies (it took me a while to find myself in the area) 👨🏻‍💻</h3>
     <h2>Framework</h2>
      <p align="left">
-      <img src="https://github.com/RafaelCardoso11/RafaelCardoso11/blob/main/angular-3.svg" alt="HTML" height="25">
+      <img src="https://github.com/RafaelCardoso11/RafaelCardoso11/blob/main/angular-3.svg" alt="Angular" height="25">
     <h2>Web programming</h2>
     <p align="left">
     <img src="https://img.shields.io/badge/html-FC490B?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML" height="25">
