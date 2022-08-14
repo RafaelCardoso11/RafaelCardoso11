@@ -14,10 +14,6 @@
 <p style="margin: 0 auto;">- 👨🏻‍🎓Systems Development at the Federal Institute of Education, Science and Technology of Pará (IFPA)👨🏻‍🎓</p>
 <h2 style="margin: 0 auto;">My skills</h2>
 <h3>👨🏻‍💻 I have experience with a lot of technologies (it took me a while to find myself in the area) 👨🏻‍💻</h3>
-    <h2>Frameworks and libraries</h2>
-     <p align="left">
-      <img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />
-       ReactJS, NextJS, Refine
     <h2>Programming languages and Others</h2>
     <p align="left">
     <img src="https://img.shields.io/badge/html-FC490B?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML" height="25">
