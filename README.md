@@ -8,7 +8,6 @@
 <h3> Full Stack Developer</h3>
 <hr>
 <h2 style="margin: 0 auto;">👨🏻‍🔧About me </h2>
-<p style="margin: 0 auto;">- 🧑🏻21 years old</p>
 <p style="margin: 0 auto;">- 🏠I live in Belém-PA</p>
 <p style="margin: 0 auto;">- 🖤I love the world of technology</p>
 <p style="margin: 0 auto;">- 👨🏻‍🎓Systems Development at the Federal Institute of Education, Science and Technology of Pará (IFPA)👨🏻‍🎓</p>
